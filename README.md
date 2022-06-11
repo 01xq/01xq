@@ -12,7 +12,7 @@
 
   💬 Ask me about anything about Anime, Music, or Pop-Culture 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark)  
 
   📫 How to reach me: Edwincarrillo9@outlook.com 
 </div>
