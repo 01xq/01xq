@@ -8,7 +8,7 @@
   
   ⚒️ Skills: REACT / JS / PYTHON / SQL / HTML / CSS / DOCKER / GRAPHQL
 
-  🔭 I’m currently on the job hunt !
+  🔭 I’m currently working on a new portfolio wesbite !
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark&count_private=true)  
 
