@@ -1,12 +1,12 @@
-
 <div align='center'>
 
-  <img src='https://user-images.githubusercontent.com/69633370/186209524-73c1a1c4-bd87-415b-acad-f47af7346f1c.gif' height='500'/>
-  <h2>👁️‍🗨️Hey, my name is Edwin.👁️‍🗨️</h2>
+  <img src='https://user-images.githubusercontent.com/69633370/206747424-e0dbedda-f3fb-4d4d-9c07-26d900a1944b.gif' height='500'/>
+  
+  <h2>Hey, my name is Edwin.</h2>
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edwincarr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edwincarr)
   
-  ⚒️ Skills: REACT / JS / PYTHON / SQL / HTML / CSS / DOCKER / GRAPHQL
+  ⚒️ Skills: React / JS / Python / SQL / HTML / CSS / Docker / GraphQL / MongoDB 
 
   🔭 I’m currently working on a Live-chat app utilizing the MERN Stack!
   
