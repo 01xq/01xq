@@ -8,7 +8,7 @@
   
   ⚒️ Skills: React / JS / Python / SQL / HTML / CSS / Docker / GraphQL / MongoDB 
 
-  🔭 I’m currently working on a Live-chat app utilizing the MERN Stack!
+  🔭 I’m currently working on Updating and adding new features to my AniTracker Site!
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark&count_private=true)  
 
