@@ -4,7 +4,7 @@
   
   <h2>Hey, my name is Edwin.</h2>
   
-  ⚒️ Skills: React / JS / Python / SQL / HTML / CSS / Docker / GraphQL / MongoDB 
+  ⚒️ Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
 
   🔭 I’m currently working on Updating and adding new features to my AniTracker Site!
   
