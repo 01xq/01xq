@@ -6,7 +6,7 @@
   
   ⚒️ Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
 
-  🔭 I’m currently working on Updating and adding new features to my AniTracker Site!
+  🔭 I’m currently working on interview prep and finishing chicken-shop!
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark&count_private=true)  
 
