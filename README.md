@@ -10,5 +10,5 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark&count_private=true)  
 
-  📫 How to reach me: Edwincarrillo9@outlook.com 
+  📫 How to reach me: Edwincarrillo2@outlook.com 
 </div>
