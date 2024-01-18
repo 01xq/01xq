@@ -6,7 +6,7 @@
   
   ⚒️ Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
 
-  🔭 I’m currently working schooling and looking for internships!
+  🔭 I’m currently working on my degree and looking for internships!
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark&count_private=true)  
 
