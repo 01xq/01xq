@@ -4,11 +4,9 @@
   
   <h2>Hey, my name is Edwin.</h2>
   
-  ⚒️ Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
+   Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
 
-  🔭 I’m currently working on my degree and looking for internships!
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwincarr&show_icons=true&theme=github_dark&count_private=true)  
+   I’m currently working on my degree and looking for internships!
 
-  📫 How to reach me: Edwincarrillo2@outlook.com 
+   How to reach me: Edwincarrillo2@outlook.com 
 </div>
