@@ -6,7 +6,7 @@
   
    Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
 
-   I’m currently working on my degree and looking for internships!
+   I’m currently working @ Nationwide !
 
    How to reach me: Edwincarrillo2@outlook.com 
 </div>
