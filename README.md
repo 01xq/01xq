@@ -1,12 +1,9 @@
 <div align='center'>
 
-  <img src='https://user-images.githubusercontent.com/69633370/206747424-e0dbedda-f3fb-4d4d-9c07-26d900a1944b.gif' height='500'/>
-  
-  <h2>Hey, my name is Edwin.</h2>
-  
-   Skills: React / JS / Python / SQL / Docker / GraphQL / MongoDB 
+<img src='https://github.com/user-attachments/assets/c6ac4fc4-0111-4dc0-ae69-e0f6a2b0b86f' height='500'/>
 
-   I’m currently working @ Nationwide !
+![803ae1bdafe8001853898720ef962dec](https://github.com/user-attachments/assets/01f35fe2-ff53-4cd6-9408-0789cae73022)
 
-   How to reach me: Edwincarrillo2@outlook.com 
+Full Time Associate for Nationwide Insurance
+
 </div>
